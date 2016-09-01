@@ -1,0 +1,2 @@
+When i is declared in block 0, then redeclared in block 1, should I add it to the newest block? 
+Should the user need to give values to all their variables before they can use them? 
