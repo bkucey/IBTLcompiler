@@ -9,4 +9,5 @@ As a test driven development project, the test directory shows the use cases for
 Use compile.bash to compile the project into a bin/ directory.  Use makeJar.bash to make an executable jar out of the .class files in bin/.
 
 Usage$: java -jar IBTLcompiler.jar input-file
-puts Gforth code to stdout.
+
+command will write gForth code to stdout. 
